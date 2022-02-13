@@ -1,2 +1,8 @@
 http://aj.ianozi.com/2021/11/gentoo-with-efistub-encrypted-btrfs.html
 https://arstechnica.com/gadgets/2021/06/a-quick-start-guide-to-openzfs-native-encryption/
+https://wiki.gentoo.org/wiki/User:Ali3nx/Installing_Gentoo_Linux_EFISTUB_On_ZFS
+
+Install zfs on kali
+    sudo apt update
+    sudo apt install linux-headers-amd64
+    sudo apt install zfsutils-linux
